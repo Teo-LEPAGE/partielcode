@@ -16,7 +16,7 @@ body{
 
 .titre{
     font-size: 48px;
-    font-style: bold;
+    font-weight: bold;
 }
 
 .premierePartie{
@@ -35,11 +35,60 @@ body{
     border-radius: 10px;
 }
 
+.cartesMilieu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.carte{
+    padding: 30px;
+}
+
 h5{
-    
+    font-size: 30px;
+    display: flex;
+    align-items: flex-start;
+}
+
+
+.troisiemePartie{
+    margin-top: 10vh;
+}
+
+.texteGras{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.texteGros{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.dernierePartie{
+    background-color: rgb(248, 248, 248);
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.texteItalique{
+    font-style: italic;
+}
+
+.texteenGras{
+    font-weight: bold;
+}
+
+.photoPayne{
+    width: 2vw;
+    height: auto;
+    display: flex;
 }
 
 .basDuSite{
+    display: flex;
     justify-content: center;
     align-items: center;
 }
