@@ -1,0 +1,45 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    margin-left: 0px;
+    width: 100%;
+}
+
+
+body{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.titre{
+    font-size: 48px;
+    font-style: bold;
+}
+
+.premierePartie{
+    margin: 2vw;
+}
+
+.image1{
+    border-radius: 7px;
+    margin-right: 10vw;
+}
+
+.texteCentre{
+    color: white;
+    justify-content: center;
+    padding: 2vw;
+    border-radius: 10px;
+}
+
+h5{
+    
+}
+
+.basDuSite{
+    justify-content: center;
+    align-items: center;
+}
